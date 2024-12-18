@@ -16,3 +16,5 @@ timm
 einops==0.8.0
 paddlepaddle
 paddleocr
+PyPDF2
+reportlab
